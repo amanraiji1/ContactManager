@@ -1,0 +1,9 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.primary-background{
+    background: black !important;
+    color : white;
+}
